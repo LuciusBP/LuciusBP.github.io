@@ -28,9 +28,7 @@ twitter_username: lucius24hour
 github_username:  LuciusBP
 
 # Build settings
-theme: minima
-minima:
-  skin: dark
+# theme: minima
 plugins:
   - jekyll-feed
 
